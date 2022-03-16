@@ -9,7 +9,7 @@
   </button>
     <div class="navbar-nav">
       <a class="nav-item nav-link active" href="#">Accueil <span class="sr-only">(current)</span></a>
-      <a class="nav-item nav-link" href="/createIncident">Déclarer un incident</a>
+      <a class="nav-item nav-link" href="/superhero/createIncident">Déclarer un incident</a>
       <a class="nav-item nav-link" href="/superhero/createHero">S'inscrire comme SuperHero</a>
   </div>
 </nav>
